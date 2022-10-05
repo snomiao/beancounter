@@ -7,13 +7,13 @@ written by js
 - [ ] Frontend
 - [ ] Generic
 - [ ] Other
-    - [ ] Paypal
-    - [ ] Alipay
-    - [ ] Wechat
-    - [ ] QQ
+  - [ ] Paypal
+  - [ ] Alipay
+  - [ ] Wechat
+  - [ ] QQ
 - [ ] Banks
-    - [ ] BOCOM
-    - [ ] BOC
+  - [ ] BOCOM
+  - [ ] BOC
 
 ## Reference
 
