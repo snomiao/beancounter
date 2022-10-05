@@ -1,0 +1,24 @@
+{
+  "name": "beancount-import",
+  "version": "1.0.0",
+  "main": "lib/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snomiao/beancount-import.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snomiao/beancount-import.js/issues"
+  },
+  "homepage": "https://github.com/snomiao/beancount-import.js#readme",
+  "description": "",
+  "dependencies": {
+    "@types/yargs": "^17.0.10",
+    "yargs": "^17.5.1"
+  }
+}
