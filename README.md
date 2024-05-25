@@ -1,11 +1,15 @@
-# Beancount Importer (wip)
+# Beancounter (WIP)
 
-written by js
+Beancount utils, including importer, type definitions, billing crawler, mail extracter
 
-## Roadmap
+## Roadmap 
+
+- Beancount Type definitions
+- Beancount composer
 
 - [ ] Frontend
 - [ ] Generic
+- [ ] Mail downloader
 - [ ] Other
   - [ ] Paypal
   - [ ] Alipay
